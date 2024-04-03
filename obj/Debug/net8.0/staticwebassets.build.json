@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BjxHEKeDHEOm5hgKsMRY9eiqzRbBwbCUfFzz17TjJJc=",
+  "Source": "create_api",
+  "BasePath": "_content/create_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
